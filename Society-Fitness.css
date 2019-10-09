@@ -1,0 +1,13 @@
+.flex-container {
+  background-image: url(https://images.unsplash.com/photo-1527824404775-dce343118ebc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+  background-repeat: no-repeat;
+  background-size: fill;
+  display:flex;
+  flex-direction: column;
+}
+.flex-box1 {
+  background-color: #045FB4;
+  background-height: 25px;
+  margin-top: 0%;
+}
+button
